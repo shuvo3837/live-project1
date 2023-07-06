@@ -24,3 +24,41 @@
     margin: 10px;
     font-size: 30px;
 }
+
+/* this is benner section */
+.benner{
+    background-image: url(./assets/pexels-daniel-absi-952670.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100vh;
+    
+    
+}
+.benner-text{
+    width: 300px;
+    color: aliceblue;
+    margin: 50px;
+    font-size: 24px;
+}
+
+.benner-text h1{
+    font-size: 30px;
+    color: rgb(70, 211, 216);
+}
+.benner-text p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.btn{
+    padding: 10px 25px;
+    background-color: red;
+    color: aliceblue;
+    border-radius: 5px;
+    
+}
+.benner-img img{
+    width: 300px;
+    margin: 50px;
+    padding: 20px;
+}
